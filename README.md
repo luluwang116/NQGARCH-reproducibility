@@ -17,7 +17,7 @@ All file paths are relative to the root of the replication package. Please set y
 
 The analysis files Figure[xx]*.R and Table[xx]*.R can be run individually, in any order.
 
-These analyses were run on R 4.4.2, and we explicitly use the following packages in the analysis files: abind, BigVAR, dplyr, forecast, frequencyConnectedness, GAS, ggplot2, ggraph, igraph, moments, parallel, quantreg, rugarch, sn, tidygraph, tseries
+These analyses were run on R 4.4.2, and we explicitly use the following packages in the analysis files: abind(1.4-8), BigVAR(1.1.5), dplyr(1.1.4), forecast(9.0.1), frequencyConnectedness(0.2.4), GAS(0.3.4.1), ggplot2(3.5.2), ggraph(2.2.2), igraph(2.3.2), moments(0.14.1), parallel(4.4.2), quantreg(6.1), rugarch(1.5-3), sn(2.1.3), tidygraph(1.3.1), tseries(0.10-60)
 
 Data set
 
