@@ -1,5 +1,6 @@
 # NQGARCH-reproducibility
 Reproducibility package for the paper "Modeling Asymmetric Risk Contagion between Chinese and Global Commodity Markets: A Network Quantile GARCH Approach"
+
 Xiaohang Ren, Yue He, Jianxin Pan and Lulu Wang
 
 Overview & contents
