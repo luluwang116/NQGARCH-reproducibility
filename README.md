@@ -29,7 +29,11 @@ The file 'simulateweight.csv' is the weight matrix used for data generation proc
 Special setup
 
 (1) The files 'Figure1.R', 'Figure2.R', 'Figure3.R', 'Figure4.R', 'Figure5.R' and 'Figure6.R' were conducted using parallel computing with 100 CPU cores. Each figure involved two separate parallel runs, and each run took approximately one hour. No GPUs were used. 
+
 (2) The files 'Table1.R', 'Table2.R' and 'Table5.R' were conducted using parallel computing with 100 CPU cores. Each table involved two separate parallel runs, and each run took approximately twelve hours. No GPUs were used.
+
 (3) The file 'Table3.R' was conducted using parallel computing with 14 CPU cores. Each table involved six separate parallel runs, and each run took approximately ten hours. No GPUs were used.
+
 (4) The file 'Table4 and Table7.R' was conducted using parallel computing with 14 CPU cores. Each table involved two separate parallel runs, and each run took approximately ten hours. No GPUs were used.
+
 (5) The file 'Figure 14-15' produces network connectedness plots. The node positions in the network plots may differ slightly from those shown in the manuscript because the original force-directed layout was generated without a fixed random seed. This affects only the graphical layout and does not alter the underlying network structure, edge weights, or empirical results.
