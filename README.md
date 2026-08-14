@@ -37,6 +37,7 @@ Special setup
 (4) The file 'Table4 and Table7.R' was conducted using parallel computing with 14 CPU cores. Each table involved two separate parallel runs, and each run took approximately ten hours. No GPUs were used.
 
 Reproducibility note
+
 (1) The file 'Figure 14-15.R' produces network connectedness plots. The node positions in the network plots may differ slightly from those shown in the manuscript because the original force-directed layout was generated without a fixed random seed. This affects only the graphical layout and does not alter the underlying network structure, edge weights, or empirical results.
 
 (2) The file 'Table2.R' produces rejection rates. Minor differences in UC, CC, and DQ rejection rates may occur due to finite-sample initialization effects. The forecast values and MAEs remain essentially unchanged, and the qualitative conclusions are unaffected.
