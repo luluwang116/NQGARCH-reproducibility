@@ -40,4 +40,4 @@ Reproducibility note
 
 (1) The file 'Figure 14-15.R' produces network connectedness plots. The node positions in the network plots may differ slightly from those shown in the manuscript because the original force-directed layout was generated without a fixed random seed. This affects only the graphical layout and does not alter the underlying network structure, edge weights, or empirical results.
 
-(2) The file 'Table2.R' produces rejection rates. Minor differences in UC, CC, and DQ rejection rates may occur due to finite-sample initialization effects. The forecast values and MAEs remain essentially unchanged, and the qualitative conclusions are unaffected.
+(2) The file 'Table2.R' and 'Table5.R' produces rejection rates. Minor differences in UC, CC, and DQ rejection rates may occur due to finite-sample initialization effects. The forecast values and MAEs remain essentially unchanged, and the qualitative conclusions are unaffected.
